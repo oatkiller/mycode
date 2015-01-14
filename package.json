@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "mycode",
+  "version": "1.0.0",
+  "description": "format yo code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "NOPE",
+  "dependencies": {
+    "escodegen": "^1.6.0",
+    "esprima": "^1.2.2",
+    "minimist": "^1.1.0"
+  }
+}
